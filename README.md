@@ -14,4 +14,5 @@ First edit - I’m learning Git with zamaFHE!
 Second edit - making progress!
 Third edit - this is getting easier!
 Fourth edit - I'm really getting the hang of Git!
+Fifth edit - I completed all 5 Git commits!
 
