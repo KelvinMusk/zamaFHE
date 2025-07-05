@@ -12,3 +12,5 @@ npx hardhat ignition deploy ./ignition/modules/Lock.js
 ```
 First edit - I’m learning Git with zamaFHE!
 Second edit - making progress!
+Third edit - this is getting easier!
+
